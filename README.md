@@ -6,3 +6,5 @@ The idea behind the drawer is to pass it into layout of the navigator so that it
 Here is preview-
 
 https://github.com/user-attachments/assets/000d3aca-cab6-4071-98bc-f196e02ea6fc
+
+Note- It has only been tested on Iphone 16 Pro, that is why the margin top is according to the device we are testing on. If I ship it then it would be tested in all sorts of devices. Since US population is a major consumer of Apple devices that is why I chose this simulator.
